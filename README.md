@@ -1,4 +1,10 @@
-## Hi there 👋
+## Marc Stremciuc
+I'm Marc. I am a student, and passionate about making great software for use in libraries. I also do other things:
+
+- Currently working on a [Goodreads-Style Service](https://github.com/BloomTechBackend/bd_lbc_marcstremciuc)
+- My LinkedIn is here: https://www.linkedin.com/in/marc-stremciuc/
+
+Thanks for checking out my work.
 
 <!--
 **InstantiatedHeartbreak/InstantiatedHeartbreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
