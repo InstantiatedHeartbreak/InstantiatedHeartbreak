@@ -1,5 +1,5 @@
 ## Marc Stremciuc
-I'm Marc. I am a student, and passionate about making great software for use in libraries. I also do other things:
+I'm Marc. I am a student, and passionate about making great software for use in learning & libraries. I also do other things:
 
 - Currently working on a [Goodreads-Style Service](https://github.com/BloomTechBackend/bd_lbc_marcstremciuc)
 - My LinkedIn is here: https://www.linkedin.com/in/marc-stremciuc/
